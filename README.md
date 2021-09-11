@@ -9,7 +9,7 @@
 * Probabilistic Modeling, Probabilistic Machine Learning, and Bayesian Inference
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://stathwang.github.io/)](https://stathwang.github.io/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shhwang/)](https://www.linkedin.com/in/shhwang/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shhwang/)](https://www.linkedin.com/in/bsh890/)
 
 I'm a data scientist and machine learning engineer. I enjoy reading the latest machine learning research papers and implementing them in production, developing innovative solutions for complex problems while balancing the needs for getting to quick wins with data.
 
