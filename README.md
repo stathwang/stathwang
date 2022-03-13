@@ -30,7 +30,7 @@ I advise companies on data science and machine learning.
 
 #### 😎 If you know Korean ...
 
-미국 [Daily Harvest](https://www.daily-harvest.com) 에서 Head of Data Science and Machine Learning 으로서 사업 전 영역에 걸쳐 혁신적 데이터 사이언스, 엔지니어링, 그리고 알고리즘의 프랙티스를 빠르고 지속적으로 확충 및 추진하고 있습니다. 그 외 Machine Learning Advisor 로 근무하고 있으며 이전에는 스타트업 창업자, 풀스택 개발자, PM 등 다양한 역할을 맡았습니다. AI 관련 분야에 관심이 많습니다.
+미국 [Daily Harvest](https://www.daily-harvest.com) 에서 Head of Data Science and Machine Learning 으로서 사업 전 영역에 걸쳐 혁신적 데이터 사이언스, 엔지니어링, 그리고 알고리즘의 프랙티스를 빠르고 지속적으로 확충 및 추진하고 있습니다. 그 외 Machine Learning Advisor 로도 근무하고 있으며 이전에는 스타트업 창업자, 풀스택 개발자, PM 등 다양한 역할을 맡았습니다. AI 관련 분야에 관심이 많습니다.
 
 
 <!--
