@@ -5,7 +5,7 @@
 #### 🔭 What I do ...
 
 <p align="left">
-<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=Data+Science!;Machine+Learning+and+AI;Software+Engineering">
+<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=Data+Science;Machine+Learning+and+AI;Software+Engineering">
 </p>
 
 I'm a data science and machine learning professional with hands-on technical and managerial experience in building data products and teams for a wide variety of industries: direct-to-consumer retail, restaurant point of sale and management, micromobility operations, marketplace lending, and programmatic marketing.
