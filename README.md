@@ -12,7 +12,7 @@ I'm a data science and machine learning professional with hands-on technical and
 
 I provide strategic and tactical leadership in algorithms, engineering and analytics and develop data and algorithmic capability from the ground up. I enjoy developing innovative solutions for complex problems while balancing the needs for quick wins with data.
 
-I advise companies on data science and machine learning.
+I advise companies on data science, machine learning and AI.
 
 #### 📚 Applied research background ...
 
