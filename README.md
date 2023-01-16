@@ -25,7 +25,6 @@ I advise companies on data science, machine learning and AI.
 #### 📫 Connect with me ...
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seonghwang/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/superhugehwang)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=for-the-badge&logo=github&logoColor=white)](https://stathwang.github.io/)
 
 #### 😎 If you know Korean ...
